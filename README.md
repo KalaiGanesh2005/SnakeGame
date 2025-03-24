@@ -1,7 +1,7 @@
 ## Snake Game
 snake game to play for 19's kids
 
-Experience the classic Snake Game with a modern touch! This version features smooth animations, intuitive controls, and an optimized game loop for a responsive and engaging gameplay experience. The game is designed for both desktop and mobile users with a clean and adaptive UI. [Play it here!](KalaiGanesh2005.github.io/SnakeGame)
+Experience the classic Snake Game with a modern touch! This version features smooth animations, intuitive controls, and an optimized game loop for a responsive and engaging gameplay experience. The game is designed for both desktop and mobile users with a clean and adaptive UI. [Play it here!](https//:KalaiGanesh2005.github.io/SnakeGame)
 
 ### 🕹️ Game Design
 - **HTML:** Defines the game canvas, score display, and controls.
